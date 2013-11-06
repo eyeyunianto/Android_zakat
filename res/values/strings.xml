@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zakat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tahun">Zakat Harta Tahunan</string>
+    <string name="profesi">Zakat Profesi</string>
+    <string name="usaha">Zakat Usaha</string>
+    <string name="nisab">Hitung Nisab</string>
+    <string name="hzakat">Hitung Zakat</string>
+    
+    <string name="nol">0</string>
+    <string name="dNisob">20000000</string>
+    <string name="sNisob">Set Nisab</string>
+    
+    <string name="jdl1">Hitung Zakat Tahunan</string>
+    <string name="jdl2">Hitung Zakat Profesi</string>
+    <string name="jdl3">Hitung Zakat Usaha</string>
+    <string name="jdl4">Hitung Nisab</string>
+    
+    <string name="a">Uang Tunai, Tabungan dan Sejenisnya</string>
+    <string name="b">Saham atau Surat Berharga</string>
+    <string name="c">Real Estate Selain Rumah Tinggal</string>
+    <string name="d">Emas, Perak, Permata</string>
+    <string name="e">Mobil lebih diluar kebutuhan</string>
+    <string name="g">Hutang Jatuh Tempo Tahun Ini</string>
+    
+    <string name="j">Pendapatan / Gaji per Bulan (setelah dipotong pajak)</string>
+    <string name="k">Bonus/pendapatan lain-lain selama setahun</string>
+    <string name="m">Rata-rata pengeluaran rutin per bulan (kebutuhan fisik, air, listrik, pendidikan, kesehatan, transportasi, dll)</string>
+    <string name="n">Pengeluaran lainnya dalam satu tahun (pendidikan, kesehatan, dll)</string>
+    
+    
+    <string name="r">Nilai Kekayaan Perusahaan (termasuk uang tunai, simpanan di bank, real estate, alat produksi, inventori, barang jadi, dll)</string>    
+    <string name="s">Utang perusahaan jatuh tempo</string>
+    <string name="t">Komposisi Kepemilikan (dalam persen)</string>
+    
+    <string name="z">Harga Emas Murni Saat ini per Gram</string>
+    <string name="zz">Besarnya Nisab (z x 85 gram emas)</string>
+    <string name="seratus">100</string>
+    <string name="zak">Zakat Maal 1.0</string>
+    
+    
+</resources>
